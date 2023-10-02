@@ -1,6 +1,6 @@
 # Projeto Kenzie Hub
 
-O Projeto Kenzie Hub é uma aplicação web desenvolvida utilizando a Kenzie Hub API e a biblioteca React. O objetivo principal deste projeto é oferecer uma plataforma de registro, login e dashboard para os usuários da Kenzie Academy, onde eles podem acessar informações relevantes sobre os cursos, módulos e conectar-se com outros membros da comunidade.
+O Projeto Kenzie Hub é uma aplicação web desenvolvida utilizando a Kenzie Hub API e a biblioteca React. O objetivo principal deste projeto é oferecer uma plataforma de registro, login e dashboard de um curso referente, onde é possível acessar informações relevantes sobre os cursos, módulos e conectar-se com outros membros da comunidade.
 
 ## Funcionalidades Principais
 
